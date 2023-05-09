@@ -1,0 +1,13 @@
+{
+  "ver": "2.0.3",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "af646acd-58dd-41b1-96da-798c76d00f2a",
+  "files": [
+    ".cconb"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "HeroRun"
+  }
+}

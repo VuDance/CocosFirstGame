@@ -1,0 +1,13 @@
+{
+  "ver": "2.0.3",
+  "importer": "animation-clip",
+  "imported": true,
+  "uuid": "de40380d-9c7e-47d7-91cb-3a3d4ac999b9",
+  "files": [
+    ".cconb"
+  ],
+  "subMetas": {},
+  "userData": {
+    "name": "HeroAnimation"
+  }
+}
